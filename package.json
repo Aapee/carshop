@@ -1,7 +1,7 @@
 {
   "name": "mycarshop",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://aapee.github.io/carshop/",
   "dependencies": {
     "@material-ui/core": "^4.9.5",
